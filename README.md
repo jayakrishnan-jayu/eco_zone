@@ -1,16 +1,18 @@
-# eco_zone
+# Eco Zone
 
-A new Flutter application.
+Eco Zone is a social media app focused on environmental projects. It was developed as a course project for my undergraduate degree, and is built using Flutter and Firebase.
 
-## Getting Started
+## Features
+* Users can sign up and create an account
+* Users can share posts with pictures and descriptions about their environmental projects
+* All posts are visible to all users
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+!<img width="282" alt="image" src="https://user-images.githubusercontent.com/25554170/219324518-3e1b43dc-7961-4a80-b858-c416a4577149.jpg"> 
+!<img width="282" alt="image" src="https://user-images.githubusercontent.com/25554170/219324548-278d125b-63f7-481b-8732-c454c7cec70c.jpg"> 
+!<img width="282" alt="image" src="https://user-images.githubusercontent.com/25554170/219324578-7dddc228-8376-4f99-a9ad-3d4fecec90bf.jpg"> 
+!<img width="282" alt="image" src="https://user-images.githubusercontent.com/25554170/219324609-278e7b04-cd79-463b-b018-78a0055ac27a.jpg"> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This application is released under MIT License (see [LICENSE](LICENSE)).
